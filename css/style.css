@@ -1,0 +1,59 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: auto;
+}
+
+h1, p {
+	text-align:center;
+}
+
+h1 {
+	color:#1f2839;
+	font-size:2.5em;
+	text-shadow: 6px 6px 2px #d0d0d0;
+}
+
+#palya {
+	background: black;
+	font-size: 2em;
+	text-align: center;
+	margin: auto;
+	border-color: black;
+	box-shadow: 10px 10px 5px #d0d0d0;
+}
+
+td:hover {
+	cursor: pointer;
+}
+
+.rightPanel {
+	float: right;
+	text-align: left;
+}
+
+h2 {
+	text-align: center;
+}
+
+.panel {
+	text-align: center;
+}
+
+.inline { 
+	display: inline-block; 
+	margin: 10px;
+}
+
+#whiteTeam, #blackTeam {
+	height: 150px;
+}
+
+.restart:hover {
+	cursor: pointer;
+}
+
+.footer {
+	text-align: center;
+	font-weight: 900;
+	font-size: 28px;
+}
